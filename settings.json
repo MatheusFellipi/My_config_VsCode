@@ -1,13 +1,14 @@
+  
 {
   "terminal.integrated.fontSize": 14,
 
   "workbench.iconTheme": "material-icon-theme",
   "workbench.startupEditor": "newUntitledFile",
 
+  "editor.fontFamily": "Fira Code",
   "editor.tabSize": 2,
   "editor.fontSize": 16,
   "editor.lineHeight": 26,
-  "editor.fontFamily": "JetBrains Mono",
   "terminal.integrated.shell.linux": "/bin/zsh",
   "editor.fontLigatures": true,
   "editor.semanticHighlighting.enabled": false,
@@ -101,7 +102,6 @@
     "*.webpack.js": "webpack"
   },
 
-  "workbench.colorTheme": "Omni",
   "window.menuBarVisibility": "toggle",
   "typescript.updateImportsOnFileMove.enabled": "never",
   "tabnine.experimentalAutoImports": true,
